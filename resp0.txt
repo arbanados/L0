@@ -1,0 +1,13 @@
+MacBook-Air-de-Alejandro:L0 alejandrobanados$ history
+    1  cd Desktop
+    2  git clone https://github.com/arbanados/L0.git
+    3  cd L0
+    4  git add *
+    5  git push
+    6  git add *
+    7  git commit -m " se subió archivo txt"
+    8  git push
+    9  git push
+   10  git pull
+   11  history
+MacBook-Air-de-Alejandro:L0 alejandrobanados$ 
