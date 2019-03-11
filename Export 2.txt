@@ -1,1 +1,1 @@
-Hola Hola
+Editar el archivo de texto en l ́ınea, y luego actualizarlo por comandos de forma local.
